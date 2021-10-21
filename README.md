@@ -1,2 +1,1 @@
-# JAVA-DSA
-Data structures and algorithms with JAVA
+# Data structures and algorithms with JAVA
